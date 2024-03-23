@@ -1,0 +1,19 @@
+{
+  "name": "m6-cli-number-guessing",
+  "version": "1.0.0",
+  "description": "This ia cli based cli-number-guessing game",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  }
+}
